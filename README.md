@@ -347,4 +347,4 @@ nation_console_game/
 
 ---
 
-*한국외국어대학교 Social Science & AI 융합학부 — 객체지향형 프로그래밍 2026-1 팀 프로젝트*
+*4팀 프로젝트*
